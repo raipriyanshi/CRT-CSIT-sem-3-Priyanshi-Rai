@@ -1,4 +1,11 @@
-
+.x{
+    width : 400px;
+    border : 20px solid #333;
+    border-radius : 8px;
+    background : #f9f9f9;
+    margin: 150px;
+    padding: 10px;
+}
 
 
 body {
